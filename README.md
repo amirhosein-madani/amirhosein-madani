@@ -1,4 +1,4 @@
-# Amir
+[# Amir
 
 **Backend Developer · Python · Django · Django REST Framework**
 
@@ -167,3 +167,4 @@ Building backend systems that are not only functional, but also **maintainable, 
 💼 **LinkedIn:** [linkedin.com/in/amir-madanii](https://www.linkedin.com/in/amir-madanii/?utm_source=chatgpt.com)
 
 🐙 **GitHub:** [github.com/amirhosein-madani](https://github.com/amirhosein-madani?utm_source=chatgpt.com)
+](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>?style=flat-square&logo=<LOGO>&logoColor=white)
