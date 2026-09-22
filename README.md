@@ -107,99 +107,29 @@ maintainable backend architecture.
 
 ### 🛒 E-commerce API
 
-A modular e-commerce backend built with **Django REST Framework**.
+A modular e-commerce backend built with **Django REST Framework**, covering products, cart, orders, payments, reviews, authentication, and customer support.
 
-**Highlights:**
-
-* Product & category management
-* Shopping cart with stock validation
-* Checkout & order workflow
-* Payment integration
-* JWT authentication
-* Reviews & wishlist
-* Customer support tickets
-* Redis caching
-* Celery background tasks
-* OpenAPI documentation
-* Automated testing with pytest
-* Dockerized development environment
-
-**Stack:**
-
-`Django` · `DRF` · `PostgreSQL` · `Redis` · `Celery` · `JWT` · `Docker` · `Pytest`
+`Django` · `DRF` · `PostgreSQL` · `Redis` · `Celery` · `Docker`
 
 🔗 [View repository](https://github.com/amirhosein-madani/Ecommerce)
 
----
-
 ### 📚 Library Management System
 
-A backend system for managing a library and its users, built collaboratively.
+A collaborative backend project for managing **books, users, loans, reservations, and role-based access control**, with automated testing and a Dockerized environment.
 
-**Highlights:**
-
-* Custom user & role management
-* Books, authors, categories & publishers
-* Loan management
-* Reservation system
-* Authentication & role-based authorization
-* PostgreSQL
-* Redis & Celery integration
-* Dockerized environment
-* Automated testing with pytest
-
-**Stack:**
-
-`Django` · `DRF` · `PostgreSQL` · `Redis` · `Celery` · `Docker` · `Pytest`
-
----
+`Django` · `DRF` · `PostgreSQL` · `Redis` · `Celery` · `Docker`
 
 ### 📰 Blog & Comment REST API
 
-A Django REST Framework project focused on authentication,
-permissions, API filtering, caching, background tasks, and testing.
+A Django REST API focused on **authentication, permissions, filtering, caching, background tasks, and API documentation**, with a complete account and comment system.
 
-**Highlights:**
-
-* Blog post & category management
-* Comment system
-* JWT authentication
-* User registration & email verification
-* Password reset flow
-* Object-level permissions
-* Filtering, searching & ordering
-* Pagination
-* Redis caching
-* Celery background tasks
-* Celery Beat scheduling
-* Swagger / Redoc documentation
-* pytest & pytest-django test suite
-* Docker & Docker Compose
-
-**Stack:**
-
-`Django` · `DRF` · `PostgreSQL` · `Redis` · `Celery` · `JWT` · `Docker` · `Pytest`
+`Django` · `DRF` · `PostgreSQL` · `Redis` · `Celery` · `Docker`
 
 🔗 [View repository](https://github.com/amirhosein-madani/core)
 
----
-
 ### ⚡ API Latency Lab
 
-A collaborative backend performance project exploring API latency
-and different approaches to backend performance.
-
-**Topics explored:**
-
-* Database query performance
-* Pagination strategies
-* Redis caching
-* Synchronous vs asynchronous execution
-* Django vs FastAPI
-* Celery task processing
-* Load testing with Locust
-
-**Stack:**
+A collaborative backend performance project exploring **API latency, database queries, caching, async execution, Celery, and load testing**.
 
 `Django` · `FastAPI` · `PostgreSQL` · `Redis` · `Celery` · `Locust` · `Docker`
 
@@ -224,7 +154,6 @@ and different approaches to backend performance.
 * API Architecture Patterns
 * Testing & Test Design
 * FastAPI & Async Python
-
 
 ---
 
