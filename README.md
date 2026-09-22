@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Iran-1e40af?style=flat-square&logo=googlemaps&logoColor=white" alt="Iran">
   <img src="https://img.shields.io/badge/Open%20to-Backend%20Roles-16a34a?style=flat-square" alt="Open to work">
-  <img src="https://img.shields.io/badge/Focus-REST%20APIs%20%26%20Backend-7c3aed?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/Focus-REST%20APIs%20%26%20Backend-7c3aed?style=flat-square" alt="Backend Focus">
 </p>
 
 <p align="center">
@@ -29,67 +29,69 @@
 I'm a backend developer focused on building **RESTful APIs** with
 **Python, Django, and Django REST Framework**.
 
-I enjoy working on backend systems where I can focus on API design,
-authentication, database interactions, testing, performance, and
-clean project structure.
+My main interests are API design, authentication and authorization,
+database interactions, testing, caching, background tasks, and
+maintainable backend architecture.
 
-- 🔭 Currently building production-style Django backends
-- 🌱 Learning **FastAPI**, advanced PostgreSQL, and backend performance
-- 🎯 Goal: backend systems that are **maintainable, testable, and performant**
+* 🔭 Building and improving Django REST APIs
+* 🌱 Currently learning **SQL Server**, database concepts, FastAPI, and backend performance
+* 🎯 Interested in building systems that are **maintainable, testable, and performant**
 
 ---
 
 ## 🎯 What I Focus On
 
-| Area | Details |
-|---|---|
-| **API Design** | RESTful APIs, versioning, OpenAPI documentation |
-| **Framework** | Django, Django REST Framework, FastAPI |
-| **Auth** | JWT, session auth, object-level permissions |
-| **Database** | PostgreSQL, Django ORM, schema design, migrations |
-| **Performance** | Redis caching, query optimization, pagination |
-| **Background** | Celery, Celery Beat, task queues |
-| **Testing** | pytest, pytest-django, Faker |
-| **DevOps** | Docker, Docker Compose, Git, GitHub |
+* **REST API Design** — API structure, versioning, pagination, filtering & OpenAPI
+* **Django & DRF** — Views, serializers, permissions, authentication & ORM
+* **Database** — SQL, PostgreSQL, SQL Server & database fundamentals
+* **Performance** — Redis caching, query optimization & pagination
+* **Background Tasks** — Celery, Celery Beat & task queues
+* **Testing** — pytest, pytest-django & test design
+* **DevOps** — Docker, Docker Compose, Git & GitHub
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479a1?style=flat-square&logo=databricks&logoColor=white" alt="SQL">
 </p>
 
-### Backend Frameworks
+### Backend
+
 <p>
   <img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white" alt="DRF">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework">
 </p>
 
-### Databases
+### Databases & Caching
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-005c84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/SQL%20Server-cc2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white" alt="Redis">
 </p>
 
-### Background & Caching
+### Background Tasks
+
 <p>
   <img src="https://img.shields.io/badge/Celery-37814a?style=flat-square&logo=celery&logoColor=white" alt="Celery">
   <img src="https://img.shields.io/badge/Celery%20Beat-37814a?style=flat-square&logo=celery&logoColor=white" alt="Celery Beat">
 </p>
 
 ### Testing
+
 <p>
   <img src="https://img.shields.io/badge/pytest-0a9edc?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
   <img src="https://img.shields.io/badge/pytest--django-0a9edc?style=flat-square&logo=pytest&logoColor=white" alt="pytest-django">
+  <img src="https://img.shields.io/badge/Faker-0a9edc?style=flat-square" alt="Faker">
 </p>
 
 ### DevOps & Tools
+
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Docker%20Compose-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose">
@@ -105,21 +107,25 @@ clean project structure.
 
 ### 🛒 E-commerce API
 
-A modular e-commerce backend built with Django REST Framework.
+A modular e-commerce backend built with **Django REST Framework**.
 
 **Highlights:**
-- Product & category management
-- Shopping cart with stock validation
-- Checkout & order workflow
-- Payment integration
-- Reviews, wishlist & support tickets
-- JWT authentication
-- Redis caching & Celery tasks
-- OpenAPI documentation
-- Automated tests with pytest
-- Dockerized development environment
+
+* Product & category management
+* Shopping cart with stock validation
+* Checkout & order workflow
+* Payment integration
+* JWT authentication
+* Reviews & wishlist
+* Customer support tickets
+* Redis caching
+* Celery background tasks
+* OpenAPI documentation
+* Automated testing with pytest
+* Dockerized development environment
 
 **Stack:**
+
 `Django` · `DRF` · `PostgreSQL` · `Redis` · `Celery` · `JWT` · `Docker` · `Pytest`
 
 🔗 [View repository](https://github.com/amirhosein-madani/Ecommerce)
@@ -131,42 +137,47 @@ A modular e-commerce backend built with Django REST Framework.
 A backend system for managing a library and its users, built collaboratively.
 
 **Highlights:**
-- Custom user and role management
-- Books, authors, categories & publishers
-- Loan management
-- Reservation system
-- Authentication & role-based authorization
-- PostgreSQL database
-- Redis & Celery integration
-- Dockerized environment
-- Automated testing
+
+* Custom user & role management
+* Books, authors, categories & publishers
+* Loan management
+* Reservation system
+* Authentication & role-based authorization
+* PostgreSQL
+* Redis & Celery integration
+* Dockerized environment
+* Automated testing with pytest
 
 **Stack:**
+
 `Django` · `DRF` · `PostgreSQL` · `Redis` · `Celery` · `Docker` · `Pytest`
 
 ---
 
-### 📰 Blog & Comment REST API (`core`)
+### 📰 Blog & Comment REST API
 
-A structured blog backend focused on authentication, permissions,
-filtering, caching, and background tasks.
+A Django REST Framework project focused on authentication,
+permissions, API filtering, caching, background tasks, and testing.
 
 **Highlights:**
-- Blog post & category management
-- Comment system
-- JWT authentication
-- User registration with email verification
-- Password reset flow
-- Object-level permissions
-- Filtering, searching & ordering
-- Pagination
-- Redis caching
-- Celery background tasks & Celery Beat scheduling
-- Swagger / Redoc API documentation
-- pytest & pytest-django test suite
-- Docker & Docker Compose
+
+* Blog post & category management
+* Comment system
+* JWT authentication
+* User registration & email verification
+* Password reset flow
+* Object-level permissions
+* Filtering, searching & ordering
+* Pagination
+* Redis caching
+* Celery background tasks
+* Celery Beat scheduling
+* Swagger / Redoc documentation
+* pytest & pytest-django test suite
+* Docker & Docker Compose
 
 **Stack:**
+
 `Django` · `DRF` · `PostgreSQL` · `Redis` · `Celery` · `JWT` · `Docker` · `Pytest`
 
 🔗 [View repository](https://github.com/amirhosein-madani/core)
@@ -176,49 +187,44 @@ filtering, caching, and background tasks.
 ### ⚡ API Latency Lab
 
 A collaborative backend performance project exploring API latency
-and different approaches to improving backend performance.
+and different approaches to backend performance.
 
 **Topics explored:**
-- Database query performance
-- Pagination strategies
-- Redis caching
-- Synchronous vs asynchronous execution
-- Django vs FastAPI benchmarks
-- Celery task processing
-- Load testing with Locust
+
+* Database query performance
+* Pagination strategies
+* Redis caching
+* Synchronous vs asynchronous execution
+* Django vs FastAPI
+* Celery task processing
+* Load testing with Locust
 
 **Stack:**
+
 `Django` · `FastAPI` · `PostgreSQL` · `Redis` · `Celery` · `Locust` · `Docker`
 
 🔗 [View repository](https://github.com/abolfazlmirzaie/api-latency-lab)
 
 ---
 
-## 🌱 Currently Learning
+## 🔨 Currently Building
 
-- Advanced Database Concepts
-- PostgreSQL deep dive
-- Backend performance & profiling
-- API architecture patterns
-- Testing & test design
-- FastAPI & async Python
+* Improving a Django REST Framework e-commerce backend
+* Expanding automated test coverage
+* Working on database fundamentals with **SQL Server & SSMS**
+* Exploring backend performance and API architecture
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Learning
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=amirhosein-madani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="GitHub Stats"
-    height="170"
-  >
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein-madani&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-    alt="Top Languages"
-    height="170"
-  >
-</p>
+* Advanced Database Concepts
+* SQL Server & SSMS
+* Backend Performance & Profiling
+* API Architecture Patterns
+* Testing & Test Design
+* FastAPI & Async Python
+
 
 ---
 
