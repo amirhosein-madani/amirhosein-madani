@@ -34,7 +34,6 @@ database interactions, testing, caching, background tasks, and
 maintainable backend architecture.
 
 * 🔭 Building and improving Django REST APIs
-* 🌱 Currently learning **SQL Server**, database concepts, FastAPI, and backend performance
 * 🎯 Interested in building systems that are **maintainable, testable, and performant**
 
 ---
@@ -119,6 +118,8 @@ A collaborative backend project for managing **books, users, loans, reservations
 
 `Django` · `DRF` · `PostgreSQL` · `Redis` · `Celery` · `Docker`
 
+🔒 Private repository
+
 ### 📰 Blog & Comment REST API
 
 A Django REST API focused on **authentication, permissions, filtering, caching, background tasks, and API documentation**, with a complete account and comment system.
@@ -137,23 +138,22 @@ A collaborative backend performance project exploring **API latency, database qu
 
 ---
 
-## 🔨 Currently Building
+## 🌱 Currently Learning & Building
 
 * Improving a Django REST Framework e-commerce backend
 * Expanding automated test coverage
-* Working on database fundamentals with **SQL Server & SSMS**
-* Exploring backend performance and API architecture
+* Database fundamentals with **SQL Server & SSMS**
+* Backend performance, profiling & API architecture patterns
+* **FastAPI** & async Python
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Stats
 
-* Advanced Database Concepts
-* SQL Server & SSMS
-* Backend Performance & Profiling
-* API Architecture Patterns
-* Testing & Test Design
-* FastAPI & Async Python
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amirhosein-madani&show_icons=true&theme=tokyonight&hide_border=true" alt="Amir's GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein-madani&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+</p>
 
 ---
 
